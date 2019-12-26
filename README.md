@@ -1,3 +1,3 @@
 # voice_opens_web
 
-Programs make it possible that voice opens webpages in japanese. You can resister a word and the url and can use this function.  
+Programs make it possible that you opens webpages by speaking in japanese. You can resister the word you speak and the url you want to open and can use this function.  
